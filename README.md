@@ -3,8 +3,8 @@
   <img src="./github-banner.png" alt="Hapsa Khatun Banner" width="100%">
 </p>
 
-<h1 align="center">Hi 👋, I'm Hapsa Khatun</h1>
-<h3 align="center">Junior Full Stack (MERN) Developer</h3>
+<h1 align="center"> Hapsa Khatun</h1>
+<h3 align="center"> Full Stack Developer</h3>
 
 ---
 
