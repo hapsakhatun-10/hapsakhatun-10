@@ -69,6 +69,47 @@ I'm a passionate Junior Full Stack (MERN) Developer from Bangladesh who enjoys b
 
 ---
 
+
+## 🚀 Featured Projects
+
+### 🚀 StartupForge
+
+A startup team builder platform where founders can publish startup ideas, recruit collaborators, and manage opportunities.
+
+**Tech Stack:** Next.js • Node.js • Express.js • MongoDB • Better Auth • Tailwind CSS
+
+🔗 **Live Demo:** https://startup-forge-wbdi.vercel.app
+
+💻 **Client Repository:** https://github.com/hapsakhatun-10/StartupForge-
+
+
+---
+
+### 🐾 PetHome
+
+A full-stack pet adoption platform with secure authentication, adoption requests, and donation campaigns.
+
+**Tech Stack:** React • Node.js • Express.js • MongoDB • JWT • Tailwind CSS
+
+🔗 **Live Demo:** https://assignment-09-a6sk.vercel.app/
+
+💻 **Client Repository:** https://github.com/hapsakhatun-10/Assignment-09
+
+
+
+
+
+---
+
+## 📫 Contact Me
+
+- 📧 Email: **hk.hapsakhatun@gmail.com**
+- 🌍 Portfolio: **Your Portfolio Link**
+- 💼 LinkedIn: **https://www.linkedin.com/in/hapsakhatun710**
+- 💻 GitHub: **https://github.com/hapsakhatun-10**
+
+---
+
 # 📊 GitHub Stats
 
 <p align="center">
@@ -79,28 +120,6 @@ I'm a passionate Junior Full Stack (MERN) Developer from Bangladesh who enjoys b
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=hapsakhatun-10&theme=tokyonight" />
 </p>
-
----
-
-## 📌 Featured Projects
-
-### 🐾 PetHome
-A full-stack pet adoption platform with authentication, role-based dashboards, donation campaigns, and adoption request management.
-
-### 🚀 StartupForge
-A startup team builder platform where founders can post startup ideas, recruit collaborators, and manage opportunities.
-
-### 📚 Book Shop
-A responsive online bookstore built with Next.js featuring authentication, book management, and modern UI.
-
----
-
-## 📫 Contact Me
-
-- 📧 Email: **hk.hapsakhatun@gmail.com**
-- 🌍 Portfolio: **Your Portfolio Link**
-- 💼 LinkedIn: **https://www.linkedin.com/in/hapsakhatun710**
-- 💻 GitHub: **https://github.com/hapsakhatun-10**
 
 ---
 
