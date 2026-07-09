@@ -1,1 +1,109 @@
-`# <img src="github-banner.png" alt="banner" width="100%" /> # Hi 👋, I'm Hapsa Khatun ### Junior Full Stack (MERN) Developer ## 🚀 About Me I'm a passionate MERN Stack Developer from Bangladesh who enjoys building modern, responsive, and user-friendly web applications. I love turning ideas into real projects and continuously learning new technologies. My current focus is improving my skills in Next.js and full-stack development while building portfolio-ready applications. --- ## 🌱 Current Activities - 🔭 I'm exploring **Next.js** - 💻 I'm working on a **Tourism Website** - 🛠️ Building full-stack MERN projects for my portfolio - 📚 Learning advanced React and backend concepts --- ## 🛠️ Skills ### Frontend ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Next JS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) ### Backend ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge) ### Database ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) ### Tools & Platforms ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) --- ## 🌐 Connect with Me <p align="left"> <a href="https://github.com/hapsakhatun-10" target="blank"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> </a> <a href="https://www.linkedin.com/in/hapsakhatun710" target="blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> </p> --- ## 📊 GitHub Stats <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=hapsakhatun-10&show_icons=true&theme=tokyonight" height="180" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hapsakhatun-10&layout=compact&theme=tokyonight" height="180" /> </p> <p align="center"> <img src="https://streak-stats.demolab.com?user=hapsakhatun-10&theme=tokyonight" height="180" /> </p> --- ## ✨ Featured Projects - 🐾 **PetHome** — Full-stack pet adoption platform - 🚀 **StartupForge** — Startup team builder platform - 📚 **Book Shop** — Modern online bookstore application --- ### 💡 Quote > "Keep building, keep learning, and let your projects speak for you."`
+
+<p align="center">
+  <img src="./github-banner.png" alt="Hapsa Khatun Banner" width="100%">
+</p>
+
+<h1 align="center">Hi 👋, I'm Hapsa Khatun</h1>
+<h3 align="center">Junior Full Stack (MERN) Developer</h3>
+
+---
+
+## 🚀 About Me
+
+I'm a passionate Junior Full Stack (MERN) Developer from Bangladesh who enjoys building modern, responsive, and user-friendly web applications. I love solving real-world problems through code and continuously improving my development skills. Currently, I'm focusing on Next.js and creating scalable full-stack projects for my portfolio.
+
+---
+
+## 🌱 Current Activities
+
+- 🌐 Exploring **Next.js**
+- 🏝️ Working on a **Tourism Website**
+- 💻 Building full-stack MERN applications
+- 📚 Learning advanced React patterns and backend development
+
+---
+
+## 🛠️ Skills
+
+### 🎨 Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind" />
+</p>
+
+### ⚙️ Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+### 🗄️ Database
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb" />
+</p>
+
+### 🧰 Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,firebase,figma" />
+</p>
+
+---
+
+## 🌐 Connect with Me
+
+<p align="left">
+  <a href="https://github.com/hapsakhatun-10" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" width="45" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/hapsakhatun710" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="45" />
+  </a>
+
+  <a href="https://twitter.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=twitter" width="45" />
+  </a>
+</p>
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hapsakhatun-10&show_icons=true&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hapsakhatun-10&layout=compact&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=hapsakhatun-10&theme=tokyonight" />
+</p>
+
+---
+
+## 📌 Featured Projects
+
+### 🐾 PetHome
+A full-stack pet adoption platform with authentication, role-based dashboards, donation campaigns, and adoption request management.
+
+### 🚀 StartupForge
+A startup team builder platform where founders can post startup ideas, recruit collaborators, and manage opportunities.
+
+### 📚 Book Shop
+A responsive online bookstore built with Next.js featuring authentication, book management, and modern UI.
+
+---
+
+## 📫 Contact Me
+
+- 📧 Email: **hk.hapsakhatun@gmail.com**
+- 🌍 Portfolio: **Your Portfolio Link**
+- 💼 LinkedIn: **https://www.linkedin.com/in/hapsakhatun710**
+- 💻 GitHub: **https://github.com/hapsakhatun-10**
+
+---
+
+<h3 align="center">
+✨ Thanks for visiting my profile! Happy Coding 🚀
+</h3>
